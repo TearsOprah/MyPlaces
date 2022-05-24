@@ -14,6 +14,7 @@
 		B33B9CE3283BDEA800DA75B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B33B9CE1283BDEA800DA75B9 /* LaunchScreen.storyboard */; };
 		B33B9CEB283BE5E800DA75B9 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B33B9CEA283BE5E800DA75B9 /* MainViewController.swift */; };
 		B3EE36D1283CE49100B746B7 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EE36D0283CE49100B746B7 /* CustomTableViewCell.swift */; };
+		B3EE36D3283CEA8A00B746B7 /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EE36D2283CEA8A00B746B7 /* PlaceModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B33B9CE4283BDEA800DA75B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B33B9CEA283BE5E800DA75B9 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		B3EE36D0283CE49100B746B7 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		B3EE36D2283CEA8A00B746B7 /* PlaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				B33B9CD6283BDEA700DA75B9 /* AppDelegate.swift */,
 				B33B9CEA283BE5E800DA75B9 /* MainViewController.swift */,
+				B3EE36D2283CEA8A00B746B7 /* PlaceModel.swift */,
 				B3EE36D0283CE49100B746B7 /* CustomTableViewCell.swift */,
 				B33B9CD8283BDEA700DA75B9 /* SceneDelegate.swift */,
 				B33B9CDC283BDEA700DA75B9 /* Main.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3EE36D3283CEA8A00B746B7 /* PlaceModel.swift in Sources */,
 				B33B9CEB283BE5E800DA75B9 /* MainViewController.swift in Sources */,
 				B33B9CD7283BDEA700DA75B9 /* AppDelegate.swift in Sources */,
 				B3EE36D1283CE49100B746B7 /* CustomTableViewCell.swift in Sources */,
